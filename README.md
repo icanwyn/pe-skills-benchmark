@@ -26,6 +26,12 @@ Copy `.env.example` to `.env` and set:
 - `DATABASE_URL` — Postgres connection string
 - `AUTH_SECRET` — long random string
 
+## Live site
+
+https://pe-skills-benchmark.vercel.app
+
+Teachers create an account there. Students only need the class code.
+
 ## Deploy
 
 The app is built for Vercel. Set the same environment variables in the Vercel project.
